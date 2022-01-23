@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @monikon22
+- 👀 I’m interested in developing
+- 🌱 I’m currently learning Java, PHP, JS
